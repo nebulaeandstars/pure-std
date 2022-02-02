@@ -1,8 +1,11 @@
 [package]
-name = "fnwrp"
+name = "pure-std"
 version = "0.1.0"
+authors = ["Laura Powles <laura@laurapowles.com>"]
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license-file = "LICENSE"
+description = "Pure alternatives to non-pure functions."
+repository = "https://github.com/nebulaeandstars/pure-std"
 
 [dependencies]
